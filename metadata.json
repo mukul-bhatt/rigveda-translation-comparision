@@ -1,0 +1,5 @@
+{
+  "name": "Rig Veda Translation Comparison Tool",
+  "description": "A self-contained web application to compare different English translations of Rig Veda Mandala 1, Sukta 1, alongside the original Sanskrit text in Devanagari and IAST transliteration.",
+  "requestFramePermissions": []
+}
